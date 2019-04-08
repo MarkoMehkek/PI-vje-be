@@ -1,0 +1,10 @@
+F:\PI-zadaci\četvrti tjedan\boje\boje\bin\Debug\boje.exe.config
+F:\PI-zadaci\četvrti tjedan\boje\boje\bin\Debug\boje.exe
+F:\PI-zadaci\četvrti tjedan\boje\boje\bin\Debug\boje.pdb
+F:\PI-zadaci\četvrti tjedan\boje\boje\obj\Debug\boje.csprojAssemblyReference.cache
+F:\PI-zadaci\četvrti tjedan\boje\boje\obj\Debug\boje.FormaBoje.resources
+F:\PI-zadaci\četvrti tjedan\boje\boje\obj\Debug\boje.Properties.Resources.resources
+F:\PI-zadaci\četvrti tjedan\boje\boje\obj\Debug\boje.csproj.GenerateResource.cache
+F:\PI-zadaci\četvrti tjedan\boje\boje\obj\Debug\boje.csproj.CoreCompileInputs.cache
+F:\PI-zadaci\četvrti tjedan\boje\boje\obj\Debug\boje.exe
+F:\PI-zadaci\četvrti tjedan\boje\boje\obj\Debug\boje.pdb
